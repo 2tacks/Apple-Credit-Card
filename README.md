@@ -1,2 +1,5 @@
 # Apple-Credit-Card
-I Recreated Apple's Credit Card.
+- I Made Apple's Apple Card In Html And Css
+  > By $tacks
+- Live Demo
+
